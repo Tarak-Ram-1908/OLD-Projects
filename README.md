@@ -17,8 +17,3 @@ Purpose of These Projects
 I created these projects to:
 - Strengthen Python fundamentals
 - Practice problem solving and logic building
-
-How to Run a Project
-1. Download or clone this repository
-2. Open the project folder
-3. Run the Python file using:
